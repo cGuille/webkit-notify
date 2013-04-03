@@ -11,6 +11,8 @@ Anyway, using your favorite web server on `localhost` will do the trick.
 
 Such a web server is provided in the quickstart, running in Node.js with Express. To test the quickstart:
   - clone the repo (`git clone https://github.com/cGuille/webkit-notify.git`) or [download and extract it](https://github.com/cGuille/webkit-notify/archive/master.zip);
-  - in the quickstart directory, run the `./server.js` Node.js script (`node run-server.js`);
+  - in the quickstart directory:
+    - install the quickstart dependencies (`npm install`);
+    - run the `./server.js` Node.js script (`node run-server.js`);
   - open your browser at [http://localhost:8080](http://localhost:8080).
 
