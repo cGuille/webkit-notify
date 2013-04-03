@@ -1,0 +1,13 @@
+{
+    "name": "webkit-notify quickstart",
+    "description": "Simple express.js server to run the webkit-notify quickstart.",
+    "author": {
+        "name" : "Guillaume Charmetant",
+        "email" : "cguille.dev@gmail.com",
+        "url" : "http://guillaumecharmetant.com"
+    },
+    "dependencies": {
+        "express": "~3"
+    }
+}
+
